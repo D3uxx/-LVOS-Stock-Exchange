@@ -56,3 +56,6 @@ Cofficient = The coefficient allows to limit a resource to avoid what is either 
 ## Configuration
 
 [Click Here for Wiki](https://github.com/PandaBasketteur/-LVOS-Stock-Exchange/wiki/Configuration)
+
+More information can be found here:
+https://forum.fivem.net/t/release-stock-exchange-resource-prices-vary-by-sells-stock-exchange-arma-3-altis-life-like-lvos/22850
