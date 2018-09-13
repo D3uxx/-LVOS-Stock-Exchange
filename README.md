@@ -43,19 +43,19 @@ Cofficient = The coefficient allows to limit a resource to avoid what is either 
 
 ## Installation
 
-[Click Here for Wiki](https://github.com/PandaBasketteur/-LVOS-Stock-Exchange/wiki/Install-%5BLVOS%5D-Stock-Exchange)
+[Click Here for Wiki](https://github.com/SGTGunner/-LVOS-Stock-Exchange/wiki/Install-%5BLVOS%5D-Stock-Exchange)
 
 ## Adapted
 
-[Click Here for Wiki](https://github.com/PandaBasketteur/-LVOS-Stock-Exchange/wiki/Adapted-%5BLVOS%5D-Stock-Exchange)
+[Click Here for Wiki](https://github.com/SGTGunner/-LVOS-Stock-Exchange/wiki/Adapted-%5BLVOS%5D-Stock-Exchange)
 
 ## Database SQL Informations
 
-[Click Here for Wiki](https://github.com/PandaBasketteur/-LVOS-Stock-Exchange/wiki/Database-SQL)
+[Click Here for Wiki](https://github.com/SGTGunner/-LVOS-Stock-Exchange/wiki/Database-SQL)
 
 ## Configuration
 
-[Click Here for Wiki](https://github.com/PandaBasketteur/-LVOS-Stock-Exchange/wiki/Configuration)
+[Click Here for Wiki](https://github.com/SGTGunner/-LVOS-Stock-Exchange/wiki/Configuration)
 
 More information can be found here:
 https://forum.fivem.net/t/release-stock-exchange-resource-prices-vary-by-sells-stock-exchange-arma-3-altis-life-like-lvos/22850
